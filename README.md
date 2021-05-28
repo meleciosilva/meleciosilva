@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Melecio! 👋
+
+- 🌱 I’m currently learning about data structures and algorithms!
 
 <!--
 **meleciosilva/meleciosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
