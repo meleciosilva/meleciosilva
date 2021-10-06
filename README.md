@@ -1,8 +1,4 @@
 ### Hi there, my name is Melecio! 👋
-
-- 🌱 I’m currently learning about data structures and algorithms!
-- 🔭 I’m currently working on building a [Restaurant Reservation Application](https://github.com/meleciosilva/reservations)
-
 <!--
 **meleciosilva/meleciosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
